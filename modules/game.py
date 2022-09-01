@@ -1,6 +1,4 @@
 import tkinter as tk
-from message import Message
-
 
 turn_count = 0
 position_dict = {'X':[], 'O':[]}
